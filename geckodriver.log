@@ -1,0 +1,20 @@
+1553861829391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NOFysZSG3YVZ"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1553861839167	Marionette	INFO	Listening on port 35519
+1553861839219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: SyntaxError: expected expression, got '<'
+1553861977055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rGG4r7lKbhyg"
+1553861986090	Marionette	INFO	Listening on port 42173
+1553861986180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5951, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-yol3YJ/firefox-esr-60.5.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1553862298659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kksBKixi56Ox"
+1553862302150	Marionette	INFO	Listening on port 42707
+1553862302174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.googletagservices.com/tag/js/gpt.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://i-invdn-com.akamaized.net/js/main-1.17.242.min.js, line 10: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://i-invdn-com.akamaized.net/js/main-1.17.242.min.js, line 10: TypeError: window.googletag.pubads is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
